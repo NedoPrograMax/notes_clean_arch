@@ -1,16 +1,19 @@
-# notes_clean_arch
 
-A new Flutter project.
+# Notes
 
-## Getting Started
+This app helps you to keep your notes on the device storage.
 
-This project is a starting point for a Flutter application.
+Technology used: Dart/Flutter, Bloc, Floor Database, and more... such as:
+Clean Arch, TDD, Unit test
 
-A few resources to get you started if this is your first Flutter project:
+In spite of look of the app being not really fancy, the real power of it is its architecture.
+The best clean architecture practices were used.
+Also it was developed using TDD(Test Driven Development), so there are (A LOT OF) unit tests.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+You can easily add a note to the list, edit it, give it a color and delete it!
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://github.com/NedoPrograMax/notes_clean_arch/blob/master/main.gif" width="200">
+
+So I'm hoping you're gonna love it)
+
+
